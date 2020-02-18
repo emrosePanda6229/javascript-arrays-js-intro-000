@@ -12,3 +12,4 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   chocolateBars[0] = 'foo';
   return chocolateBars;
 }
+destructivelyAddElementToBeginningOfArray();
